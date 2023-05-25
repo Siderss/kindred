@@ -5,10 +5,10 @@
 "version": "0.0.1",
 "templateVersion": 2,
 "esmodules": [
-    
+    "module/kindred-core.js"
 ],
 "styles":[
-    
+    "css/kindred.css"
 ],
 "gridDistance": 1.5,
 "gridUnits": "m"
