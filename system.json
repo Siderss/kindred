@@ -3,10 +3,6 @@
 "title": "La Chute de Kindred",
 "description": "Un système pour jouer à la chute de kindred",
 "version": "0.1.0",
-"compatibility": {
-  "minimum": 10,
-  "verified": 10
-},
 "templateVersion": 2,
 "esmodules": [
     "module/kindred-core.js"
@@ -15,6 +11,5 @@
     "css/kindred.css"
 ],
 "gridDistance": 1.5,
-"gridUnits": "m",
-"url": "https://github.com/Siderss/kindred"
+"gridUnits": "m"
 }
