@@ -11,5 +11,7 @@
     "css/kindred.css"
 ],
 "gridDistance": 1.5,
-"gridUnits": "m"
+"gridUnits": "m",
+"url": "https://github.com/Siderss/kindred",
+"manifest": "https://raw.githubusercontent.com/Siderss/kindred/main/system.json"
 }
