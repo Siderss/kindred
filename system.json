@@ -13,5 +13,6 @@
 "gridDistance": 1.5,
 "gridUnits": "m",
 "url": "https://github.com/Siderss/kindred",
-"manifest": "https://raw.githubusercontent.com/Siderss/kindred/main/system.json"
+"manifest": "https://raw.githubusercontent.com/Siderss/kindred/main/system.json",
+  "download": "DUMMY"
 }
