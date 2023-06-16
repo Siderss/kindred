@@ -4,10 +4,10 @@
 "description": "Un système pour jouer à la chute de kindred",
 "version": "0.1.0",
 "esmodules": [
-    "module/kindred-core.js",
+    "/module/kindred-core.js",
 ],
 "styles":[
-    "css/kindred.css",
+    "/css/kindred.css",
 ],
 "gridDistance": 1.5,
 "gridUnits": "m"
